@@ -39,9 +39,6 @@ import carousel from 'vue-owl-carousel'
     .then(
         () => this.loading = false
       )
-    },
-    methods: {
-        
     }
  }
 </script>
